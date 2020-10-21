@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">in_vacation</string>
+    <string name="hello_world">헬로 월드</string>
+    <string name="click">클릭</string>
+    <string name="button01_main">첫번째 버튼</string>
+    <string name="button02_main">두번째 버튼</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">in_vacation</string>
+    <string name="hello_world">Hello World</string>
+    <string name="click">click</string>
+    <string name="button01_main">First Button</string>
+    <string name="button02_main">Second Button</string>
+</resources>
